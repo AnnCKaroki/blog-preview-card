@@ -7,9 +7,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ![Blog Preview Card Solution](images/blog-card-solution.PNG)
 ### Links
 
-Solution URL:
+Solution URL: https://github.com/AnnCKaroki/blog-preview-card
 
-Live URL:
+Live URL: https://blog-preview-card-iota-tawny.vercel.app/
 
 
 ## My process
@@ -20,6 +20,7 @@ Live URL:
 
 -CSS
 
+
 -Flexbox
 
 
@@ -28,18 +29,22 @@ Live URL:
 -How to link Google Fonts API to my HTML file
 
 
-'''html
- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Figtree">
+```html
 
+ <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Figtree">
+```
 ### Useful Resources
 
-https://developers.google.com/fonts/docs/getting_started - This guide helped me easily add Google Fonts to my web page
+Get started with the Google Fonts API (https://developers.google.com/fonts/docs/getting_started) - This guide helped me easily add Google Fonts to my web page
+
+
+HTML Code into README.md (https://stackoverflow.com/questions/16350545/html-code-into-readme-md-on-github/16353011) - This stack overflow answer helped me include html snippets into my readme
 
 
 ## Author
 
 Charity Karoki
 
-## Acknowledgeents
+## Acknowledgements
 
 Frontend Mentor - https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS
